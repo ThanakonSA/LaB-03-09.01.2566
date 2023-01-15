@@ -1,0 +1,17 @@
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\bin\Debug\net6.0-windows\LaB-03-09.01.2566.exe
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\bin\Debug\net6.0-windows\LaB-03-09.01.2566.deps.json
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\bin\Debug\net6.0-windows\LaB-03-09.01.2566.runtimeconfig.json
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\bin\Debug\net6.0-windows\LaB-03-09.01.2566.dll
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\bin\Debug\net6.0-windows\LaB-03-09.01.2566.pdb
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\LaB-03-09.01.2566.csproj.AssemblyReference.cache
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\LaB_03_09._01._2566.Form1.resources
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\LaB-03-09.01.2566.csproj.GenerateResource.cache
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\LaB-03-09.01.2566.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\LaB-03-09.01.2566.AssemblyInfoInputs.cache
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\LaB-03-09.01.2566.AssemblyInfo.cs
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\LaB-03-09.01.2566.csproj.CoreCompileInputs.cache
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\LaB-03-09.01.2566.dll
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\refint\LaB-03-09.01.2566.dll
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\LaB-03-09.01.2566.pdb
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\LaB-03-09.01.2566.genruntimeconfig.cache
+D:\OOP-A\LaB-03-09.01.2566\LaB-03-09.01.2566\obj\Debug\net6.0-windows\ref\LaB-03-09.01.2566.dll
